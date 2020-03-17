@@ -13,6 +13,14 @@ We meet Thursdays at 14:30
 | 3/19 | Harsha |  [Multi-task Learning with Multi-head Attention for Multi-choice Reading Comprehension](https://arxiv.org/pdf/2003.04992.pdf) | |
 | 3/26| TBD | TBD |
 
+### Suggested papers:
+- [BART](https://arxiv.org/pdf/1910.13461.pdf)
+- [T5](https://arxiv.org/pdf/1910.10683.pdf)
+- [VAMPIRE](https://arxiv.org/pdf/1906.02242.pdf)
+- [Meena](https://arxiv.org/pdf/2001.09977.pdf)
+- [ALBERT](https://arxiv.org/pdf/1909.11942.pdf)
+- [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
+
 ## Neuro Spring 2020
 
 We meet Tuesdays at 14:30
