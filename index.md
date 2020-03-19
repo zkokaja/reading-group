@@ -14,7 +14,7 @@ We meet Thursdays at 14:30
 | 3/26| Dave | BART | [BART](https://arxiv.org/pdf/1910.13461.pdf) |
 
 ### Suggested papers:
-- [DCN](https://www.nature.com/articles/nature20101)
+- [DNC](https://www.nature.com/articles/nature20101)
 - [Meena](https://arxiv.org/abs/2001.09977)
 - [T5](https://arxiv.org/pdf/1910.10683.pdf)
 - [VAMPIRE](https://arxiv.org/pdf/1906.02242.pdf)
