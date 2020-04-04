@@ -12,11 +12,11 @@ We meet Thursdays at 14:30
 | 3/12 | Ariel |  [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf) | |
 | 3/19 | Harsha |  [Multi-task Learning with Multi-head Attention for Multi-choice Reading Comprehension](https://arxiv.org/pdf/2003.04992.pdf) | |
 | 3/26| Dave | [BART](https://arxiv.org/pdf/1910.13461.pdf) | |
-| 4/2| All | [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) | |
+| 4/2 | All | [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) | |
+| 4/9 | Zaid | [Meena](https://arxiv.org/abs/2001.09977)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
-- [Meena](https://arxiv.org/abs/2001.09977)
 - [T5](https://arxiv.org/pdf/1910.10683.pdf)
 - [VAMPIRE](https://arxiv.org/pdf/1906.02242.pdf)
 - [Meena](https://arxiv.org/pdf/2001.09977.pdf)
@@ -33,7 +33,3 @@ We meet Tuesdays at 14:30
 | 3/10 | [Deep Learning](https://www.nature.com/articles/nature14539.pdf) | We'll also discuss [What does it mean to understand a neural network?](https://arxiv.org/pdf/1907.06374.pdf) |
 | 3/17 | TBD |  |
 
-### Potential papers:
-- [The hierarchical cortical organization of human speech processing](https://doi.org/10.1523/jneurosci.3267-16.2017)
-- [Voxelwise encoding models with non-spherical multivariate normal priors](https://doi.org/10.1016/j.neuroimage.2019.04.012)
-- [Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream](https://doi.org/10.1523/jneurosci.5023-14.2015)
