@@ -4,7 +4,7 @@ List of papers and resources for the papers we're reading.
 
 ## NLP Spring 2020
 
-We meet Thursdays at 14:30
+We meet Thursdays at 15:00
 
 | Date | Presenter | Paper | 
 | ---- | --------- | ----- | 
@@ -21,6 +21,5 @@ We meet Thursdays at 14:30
 - [DNC](https://www.nature.com/articles/nature20101)
 - [T5](https://arxiv.org/pdf/1910.10683.pdf)
 - [VAMPIRE](https://arxiv.org/pdf/1906.02242.pdf)
-- [Meena](https://arxiv.org/pdf/2001.09977.pdf)
 - [ALBERT](https://arxiv.org/pdf/1909.11942.pdf)
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
