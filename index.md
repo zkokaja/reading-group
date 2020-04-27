@@ -16,6 +16,7 @@ We meet Thursdays at 15:00
 | 4/9 | Zaid | [Meena](https://arxiv.org/abs/2001.09977)
 | 4/16 | - | [ERNIE](https://arxiv.org/pdf/1905.07129.pdf) and [ERNIE 2.0](https://arxiv.org/pdf/1907.12412.pdf)
 | 4/23 | Eric | [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf)
+| 4/30 | - | [Pay Less Attention with Lightweight and Dynamic Convolutions](https://openreview.net/pdf?id=SkVhlh09tX)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
