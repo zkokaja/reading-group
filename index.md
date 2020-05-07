@@ -18,6 +18,7 @@ We meet Thursdays at 15:00
 | 4/23 | Eric | [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf)
 | 4/30 | - | [Pay Less Attention with Lightweight and Dynamic Convolutions](https://openreview.net/pdf?id=SkVhlh09tX)
 | 5/7  | - | [Deep Communicating Agents for Abstractive Summarization](https://www.aclweb.org/anthology/N18-1150.pdf)
+| 5/14 | - | [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/pdf/2004.14546.pdf)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
