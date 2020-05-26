@@ -20,6 +20,7 @@ We meet Thursdays at 15:00
 | 5/7  | - | [Deep Communicating Agents for Abstractive Summarization](https://www.aclweb.org/anthology/N18-1150.pdf)
 | 5/14 | - | [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/pdf/2004.14546.pdf)
 | 5/21 | - | [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+| 5/28 | - | [Robust and Scalable Differentiable Neural Computer for Question Answering](https://www.aclweb.org/anthology/W18-2606.pdf)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
