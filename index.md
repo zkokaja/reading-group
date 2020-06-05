@@ -21,6 +21,8 @@ We meet Thursdays at 15:00
 | 5/14 | - | [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/pdf/2004.14546.pdf)
 | 5/21 | - | [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
 | 5/28 | - | [Robust and Scalable Differentiable Neural Computer for Question Answering](https://www.aclweb.org/anthology/W18-2606.pdf)
+| 6/4 | - | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+| 6/11 | - | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
