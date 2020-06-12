@@ -23,6 +23,7 @@ We meet Thursdays at 15:00
 | 5/28 | - | [Robust and Scalable Differentiable Neural Computer for Question Answering](https://www.aclweb.org/anthology/W18-2606.pdf)
 | 6/4 | - | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 | 6/11 | - | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
+| 6/18 | - | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
