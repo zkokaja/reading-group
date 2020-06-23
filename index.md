@@ -24,6 +24,8 @@ We meet Thursdays at 15:00
 | 6/4 | - | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 | 6/11 | - | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
 | 6/18 | - | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)
+| 6/25 | - | [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/pdf/1905.11833.pdf)
+
 
 ### Suggested papers:
 - [DNC](https://www.nature.com/articles/nature20101)
