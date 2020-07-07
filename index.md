@@ -2,9 +2,20 @@
 
 List of papers and resources for the papers we're reading.
 
-## NLP Spring 2020
+## NLP Summer 2020
 
-We meet Thursdays at 15:00
+We meet Thursdays at 10:00
+
+| Date | Paper | 
+| ---- | ----- | 
+| 6/4  | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+| 6/11 | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
+| 6/18 | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)
+| 6/25 | [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/pdf/1905.11833.pdf)
+| 7/9  | [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf)
+
+
+## NLP Spring 2020
 
 | Date | Paper | 
 | ---- | ----- | 
@@ -21,16 +32,4 @@ We meet Thursdays at 15:00
 | 5/14 | [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/pdf/2004.14546.pdf)
 | 5/21 | [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
 | 5/28 | [Robust and Scalable Differentiable Neural Computer for Question Answering](https://www.aclweb.org/anthology/W18-2606.pdf)
-| 6/4  | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
-| 6/11 | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
-| 6/18 | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)
-| 6/25 | [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/pdf/1905.11833.pdf)
-| 7/9  | [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf)
 
-
-### Suggested papers:
-- [DNC](https://www.nature.com/articles/nature20101)
-- [T5](https://arxiv.org/pdf/1910.10683.pdf)
-- [VAMPIRE](https://arxiv.org/pdf/1906.02242.pdf)
-- [ALBERT](https://arxiv.org/pdf/1909.11942.pdf)
-- [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
