@@ -14,11 +14,6 @@ We meet Thursdays at 10:00
 | 6/11 | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
 | 6/4  | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
-
-
-
-
-
 ## NLP Spring 2020
 
 | Date | Paper | 
@@ -36,16 +31,3 @@ We meet Thursdays at 10:00
 | 3/19 | [Multi-task Learning with Multi-head Attention for Multi-choice Reading Comprehension](https://arxiv.org/pdf/2003.04992.pdf)
 | 3/12 | [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
 | 3/5  | [Compressive Transfomers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507) 
-
-
-
-
-
-
-
-
-
-
-
-
-
