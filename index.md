@@ -6,8 +6,9 @@ List of papers and resources for the papers we're reading.
 
 We meet Thursdays at 10:00
 
-| Date | Paper | 
-| ---- | ----- | 
+| Date | Paper |
+| ---- | ----- |
+| 7/30 | [CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/pdf/2005.13407.pdf)
 | 7/23 | [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
 | 7/9  | [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf)
 | 6/25 | [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/pdf/1905.11833.pdf)
