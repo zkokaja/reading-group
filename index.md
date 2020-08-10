@@ -8,6 +8,7 @@ We meet Thursdays at 10:00
 
 | Date | Paper |
 | ---- | ----- |
+| 8/10 | [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
 | 7/30 | [CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/pdf/2005.13407.pdf)
 | 7/23 | [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
 | 7/9  | [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf)
@@ -18,7 +19,7 @@ We meet Thursdays at 10:00
 
 ## NLP Spring 2020
 
-| Date | Paper | 
+| Date | Paper |
 | ---- | ----- |
 | 5/28 | [Robust and Scalable Differentiable Neural Computer for Question Answering](https://www.aclweb.org/anthology/W18-2606.pdf)
 | 5/21 | [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
@@ -32,4 +33,4 @@ We meet Thursdays at 10:00
 | 3/26 | [BART](https://arxiv.org/pdf/1910.13461.pdf)
 | 3/19 | [Multi-task Learning with Multi-head Attention for Multi-choice Reading Comprehension](https://arxiv.org/pdf/2003.04992.pdf)
 | 3/12 | [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
-| 3/5  | [Compressive Transfomers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507) 
+| 3/5  | [Compressive Transfomers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
