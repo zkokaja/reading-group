@@ -8,7 +8,8 @@ We meet Thursdays at 10:00
 
 | Date | Paper |
 | ---- | ----- |
-| 8/10 | [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
+| 8/20 | [Sentence Simplification with Deep Reinforcement Learning](https://www.aclweb.org/anthology/D17-1062.pdf)
+| 8/13 | [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
 | 7/30 | [CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/pdf/2005.13407.pdf)
 | 7/23 | [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
 | 7/9  | [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf)
