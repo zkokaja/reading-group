@@ -1,4 +1,4 @@
-# Reading Groups
+# NLP Journal Club
 
 List of papers and resources for the papers we're reading.
 
