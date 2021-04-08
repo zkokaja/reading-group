@@ -2,9 +2,19 @@
 
 List of papers and resources for the papers we're reading.
 
-## NLP Summer 2020
+## NLP Spring 2021
 
-We meet Thursdays at 10:00
+| Date | Paper |
+| ---- | ----- |
+| 4/15 | [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
+
+TBD:
+- [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
+- [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/pdf/2103.13552.pdf)
+- [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
+- [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
+
+## NLP Summer 2020
 
 | Date | Paper |
 | ---- | ----- |
