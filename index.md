@@ -9,6 +9,7 @@ List of papers and resources for the papers we're reading.
 | 4/15 | [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
 
 TBD:
+- [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/pdf/2103.13552.pdf)
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
