@@ -14,6 +14,7 @@ TBD:
 - [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/pdf/2103.13552.pdf)
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
+- |Extracting Training Data from Large Language Models|(https://arxiv.org/pdf/2012.07805.pdf)
 
 ## NLP Summer 2020
 
