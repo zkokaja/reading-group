@@ -15,7 +15,7 @@ TBD:
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
-- [Meta-learning for Few-shot Natural Language Processing: A Survey] (https://arxiv.org/pdf/2007.09604.pdf)
+- [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/pdf/2007.09604.pdf)
 
 ## NLP Summer 2020
 
