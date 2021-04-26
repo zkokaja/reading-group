@@ -9,7 +9,7 @@ List of papers and resources for the papers we're reading.
 | 4/15 | [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
 | 4/29 |  [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 | 5/13 |  [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
-|  |  [https://arxiv.org/pdf/2103.00020.pdf](https://arxiv.org/pdf/2103.00020.pdf)
+|  |  [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
 |  |  [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 |  |  [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)
 |  |  [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/pdf/2103.13552.pdf)
