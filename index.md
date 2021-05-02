@@ -16,6 +16,7 @@ List of papers and resources for the papers we're reading.
 |  |  [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 |  |  [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/pdf/2007.09604.pdf)
 |  |. [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248.pdf)
+|  |. [CAN A FRUIT FLY LEARN WORD EMBEDDINGS?](https://openreview.net/pdf?id=xfmSoxdxFCG)
 
 ## NLP Summer 2020
 
