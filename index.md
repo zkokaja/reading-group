@@ -17,6 +17,7 @@ List of papers and resources for the papers we're reading.
 |  |  [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/pdf/2007.09604.pdf)
 |  |. [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248.pdf)
 |  |. [CAN A FRUIT FLY LEARN WORD EMBEDDINGS?](https://openreview.net/pdf?id=xfmSoxdxFCG)
+|  |  [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-of-NBA)
 
 ## NLP Summer 2020
 
