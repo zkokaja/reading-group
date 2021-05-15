@@ -18,6 +18,7 @@ List of papers and resources for the papers we're reading.
 |  |. [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248.pdf)
 |  |. [CAN A FRUIT FLY LEARN WORD EMBEDDINGS?](https://openreview.net/pdf?id=xfmSoxdxFCG)
 |  |  [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-of-NBA)
+|  | [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/pdf/2105.03824.pdf)
 
 ## NLP Summer 2020
 
@@ -33,6 +34,7 @@ List of papers and resources for the papers we're reading.
 | 6/18 | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)
 | 6/11 | [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
 | 6/4  | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+
 
 ## NLP Spring 2020
 
