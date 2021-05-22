@@ -19,6 +19,7 @@ List of papers and resources for the papers we're reading.
 |  |. [CAN A FRUIT FLY LEARN WORD EMBEDDINGS?](https://openreview.net/pdf?id=xfmSoxdxFCG)
 |  |  [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-of-NBA)
 |  | [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/pdf/2105.03824.pdf)
+|. | [Unsupervised Speech Recognition](https://scontent.fsdv3-1.fna.fbcdn.net/v/t39.8562-6/187874612_311717527241594_5668815448923437055_n.pdf?_nc_cat=102&ccb=1-3&_nc_sid=ae5e01&_nc_ohc=TJVsTYPv8XQAX_KDPcT&_nc_ht=scontent.fsdv3-1.fna&oh=7489839a25bee73b388436c19d2df0d1&oe=60CDE095)
 
 ## NLP Summer 2020
 
