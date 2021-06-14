@@ -9,7 +9,9 @@ List of papers and resources for the papers we're reading.
 | 4/15 | [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
 | 4/29 |  [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 | 5/13 |  [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
-| 5/27 | [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-of-NBA)
+| 5/27 | [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-
+of-NBA)
+|24/6|. [Decision Transformer: ReinforcementLearning via Sequence Modeling](https://arxiv.org/pdf/2106.01345.pdf)
 |  |  [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
 |  |  [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 |  |  [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)
