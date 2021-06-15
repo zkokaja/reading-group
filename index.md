@@ -12,8 +12,7 @@ List of papers and resources for the papers we're reading.
 | 5/27 | [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-
 of-NBA)
 | 24/6 | [Decision Transformer: ReinforcementLearning via Sequence Modeling](https://arxiv.org/pdf/2106.01345.pdf)
-|  |  [An autonomous debating system](https://www.nature.com/articles/s41586-021-03215-w)
-Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+|  |  [An autonomous debating system](https://www.nature.com/articles/s41586-021-03215-w)Learning Transferable Visual Models From Natural Language Supervision (https://arxiv.org/pdf/2103.00020.pdf)
 |  |  [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 |  |  [Recipes for building an open-domain chatbot](https://arxiv.org/pdf/2004.13637.pdf)
 |  |  [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/pdf/2103.13552.pdf)
