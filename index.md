@@ -25,6 +25,7 @@ List of papers and resources for the papers we're reading.
 | | [Not All Memories are Created Equal: Learning to Forget by Expiring](https://arxiv.org/abs/2105.06548)
 | | [Compositional Processing Emerges in Neural Networks Solving Math Problems](https://arxiv.org/pdf/2105.08961.pdf)
 | | [John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LM](https://arxiv.org/pdf/2106.01060.pdf)
+| | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://www.aclweb.org/anthology/2020.emnlp-main.162.pdf)
 
 ## NLP Summer 2020
 
