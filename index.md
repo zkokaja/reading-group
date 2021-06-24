@@ -11,6 +11,7 @@ List of papers and resources for the papers we're reading.
 | 5/13 | [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
 | 5/27 | [Predicting In-Game Actions from Interviews of NBA Players](https://direct.mit.edu/coli/article/46/3/667/93377/Predicting-In-Game-Actions-from-Interviews-of-NBA)
 | 6/24 | [Decision Transformer: ReinforcementLearning via Sequence Modeling](https://arxiv.org/pdf/2106.01345.pdf)
+| 7/01 | [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf)
 | | [An autonomous debating system](https://www.nature.com/articles/s41586-021-03215-w)
 | | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
 | | [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
